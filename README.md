@@ -8,14 +8,14 @@
 
 **Medical Education**
 
-- Universidad Nacional Rosario (UNR), Rosario, Santa FE => Doctor
-- Hospital San Felipe, San Nicolás, Buenos Aires => General Medicine
-- Hospital JM Cullen, Santa Fe => Dermatology
+- Universidad Nacional Rosario (UNR), Rosario, Santa Fe, Argentina => Doctor
+- Hospital San Felipe, San Nicolás, Buenos Aires, Argentina => General Medicine
+- Hospital José Maria Cullen, Santa Fe, Argentina => Dermatology
 
 **Computer Science Education**
 
-- Universidad Nacional del Litoral (UNL), Santa Fe, Libre Software Technician. Passed 2 years
-- Universidad Tecnológica Nacional (UTN), Córdoba, Blockchain Development with Hyperledger Fabric - Online Course.
+- Universidad Nacional del Litoral (UNL), Santa Fe, Argentina. Libre Software Technician. Passed 2 years
+- Universidad Tecnológica Nacional (UTN), Córdoba, Argentina. Blockchain Development with Hyperledger Fabric - Online Course.
 
 **Languages**
 
