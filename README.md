@@ -1,7 +1,7 @@
 **Personal History** :sunny:
 
 - 👋 Hi, I’m @enrique-carbo
-- 👀 I’m interested in medical science and computer science.
+- 👀 I’m interested in medical and computer science.
 - 🌱 I’m currently learning artificial intelligence and machine learning with Python using Google Colab. I am also doing a React course
 - :computer: I have knowledge of HTML5, CSS3, Javascript, Python. I use Vue Framework. I really like the versatility of Quasar.dev
 - :iphone: I am interested in PWA applications.
