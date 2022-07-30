@@ -22,7 +22,7 @@
 - Native Spanish
 - Medium Advanced Technical English.
 
-**APTITUDES**: Commitment. Honesty. Resilience. Innovation. Lifelong Learning. Teamwork
+**APTITUDES**: Commitment. Honesty. Resilience. Innovation. Lifelong Learning. Teamwork. Problem solving
 
 
 
