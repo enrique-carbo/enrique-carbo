@@ -1,4 +1,4 @@
-<img src="https://github.com/enrique-carbo/enrique-carbo/blob/main/adiseniar-mockup.webp?raw=true" width="400" height="300" alt="Mockup">
+<img src="https://github.com/enrique-carbo/enrique-carbo/blob/main/adiseniar-mockup.webp?raw=true" width="600" height="200" alt="Mockup">
 
 **Personal History** :sunny:
 
