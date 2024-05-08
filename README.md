@@ -1,4 +1,4 @@
-![logo](https://github.com/enrique-carbo/enrique-carbo/blob/main/adiseniar-mockup.webp?raw=true) 
+<img src="https://github.com/enrique-carbo/enrique-carbo/blob/main/adiseniar-mockup.webp?raw=true" width="400" height="300" alt="Mockup">
 
 **Personal History** :sunny:
 
