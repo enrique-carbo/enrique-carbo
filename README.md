@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @enrique-carbo
 - 👀 I’m interested in medical and computer science.
-- Highly skilled frontend developer with extensive experience in building scalable and maintainable applications using React, Vue, Angular, and Astro. Proficient in leveraging Python for AI-related projects, including machine learning and deep learning. Proficient in cloud-based databases, Git, and Docker. Proven ability to work effectively in a collaborative environment and deliver high-quality results on time.
+- ♾️ Highly skilled frontend developer with extensive experience in building scalable and maintainable applications using React, Vue, Angular, and Astro. Proficient in leveraging Python for AI-related projects, including machine learning and deep learning. Proficient in cloud-based databases, Git, and Docker. Proven ability to work effectively in a collaborative environment and deliver high-quality results on time.
 
 
 **Medical Education**
