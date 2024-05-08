@@ -2,9 +2,8 @@
 
 - 👋 Hi, I’m @enrique-carbo
 - 👀 I’m interested in medical and computer science.
-- 🌱 I’m currently learning artificial intelligence and machine learning with Python using Google Colab. I am also doing a React course
-- :computer: I have knowledge of HTML5, CSS3, Javascript, Python. I use Vue Framework. I really like the versatility of Quasar.dev
-- :iphone: I am interested in PWA applications.
+- Highly skilled frontend developer with extensive experience in building scalable and maintainable applications using React, Vue, Angular, and Astro. Proficient in leveraging Python for AI-related projects, including machine learning and deep learning. Proficient in cloud-based databases, Git, and Docker. Proven ability to work effectively in a collaborative environment and deliver high-quality results on time.
+
 
 **Medical Education**
 
@@ -23,6 +22,14 @@
 - Medium Advanced Technical English.
 
 **APTITUDES**: Commitment. Honesty. Resilience. Innovation. Lifelong Learning. Teamwork. Problem solving
+
+**Technical Skills** 
+
+-Frontend Development: Proficient in building scalable and maintainable frontend applications using React, Vue, Angular, and Astro.
+- Artificial Intelligence: Experienced in using Python for AI-related projects, including machine learning and deep learning.
+-Cloud Databases: Familiar with cloud-based databases and data storage solutions.
+-Version Control: Experienced in using Git for version control and collaboration.
+-Containerization: Familiar with Docker for containerization and deployment.
 
 
 
