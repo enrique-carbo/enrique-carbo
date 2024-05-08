@@ -25,11 +25,11 @@
 
 **Technical Skills** 
 
--Frontend Development: Proficient in building scalable and maintainable frontend applications using React, Vue, Angular, and Astro.
+- Frontend Development: Proficient in building scalable and maintainable frontend applications using React, Vue, Angular, and Astro.
 - Artificial Intelligence: Experienced in using Python for AI-related projects, including machine learning and deep learning.
--Cloud Databases: Familiar with cloud-based databases and data storage solutions.
--Version Control: Experienced in using Git for version control and collaboration.
--Containerization: Familiar with Docker for containerization and deployment.
+- Cloud Databases: Familiar with cloud-based databases and data storage solutions.
+- Version Control: Experienced in using Git for version control and collaboration.
+- Containerization: Familiar with Docker for containerization and deployment.
 
 
 
